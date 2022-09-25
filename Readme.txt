@@ -2,4 +2,4 @@
 - Tích hợp swagger và database migration fyway
 
 - React: có tính năng đăng nhập, đăng ký
-- Sau khi đăng nhập, đăng ký thì có thể sử dụng với  abcxyz
+- Sau khi đăng nhập, đăng ký thì có thể sử dụng với  abcxyz no bi conflict
