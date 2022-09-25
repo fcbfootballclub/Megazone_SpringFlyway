@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.add-class input, select {
+  display: inline-block !important  ;
+  max-width: 200px;
+}
+
+.signin, .signup {
+  max-width: 450px !important;
+}

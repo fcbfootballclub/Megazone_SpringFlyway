@@ -1,0 +1,13 @@
+.nav {
+    background-color: blanchedalmond;
+    padding: 10px 10px;
+    margin-bottom: 40px;
+}
+
+.nav div:last-child  {
+    margin-left: auto
+}
+
+.nav div {
+    display: flex;
+}

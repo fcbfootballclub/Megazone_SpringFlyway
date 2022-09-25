@@ -1,0 +1,8 @@
+spring:
+application:
+name: spring-boot-flyway
+datasource:
+driverClassName : com.mysql.cj.jdbc.Driver
+url: "jdbc:mysql://localhost:3306/test?createDatabaseIfNotExist=true"
+password: "12345678@Ll"
+username: "root"
