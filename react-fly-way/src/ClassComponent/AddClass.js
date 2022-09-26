@@ -8,7 +8,7 @@ const AddClass = (props) => {
   });
 
   return (
-    <div className="add-class">
+    <div className="add-class mt-5 mb-5">
       <input
         type={"text"}
         name={"className"}

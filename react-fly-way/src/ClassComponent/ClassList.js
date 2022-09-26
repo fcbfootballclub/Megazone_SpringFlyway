@@ -215,7 +215,6 @@ const ClassList = () => {
         addFunc={addNewClass}
         setFunc={setAddClass}
       />
-      <ConfirmDelete />
       This is ClassList
       <table class="table">
         <thead>
